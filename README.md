@@ -9,6 +9,7 @@ Link for Official Places 365 Dataset
 
 
 Link to the Drive for Trained model
+>>> https://drive.google.com/drive/folders/1lOn1fVWPCVvoUlBO9z6GB6Szm18wZo5K?usp=sharing
 
 
 >>> Download the Model
