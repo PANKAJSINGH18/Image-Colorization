@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(41, 66, 66);
+    /* background-color: red; */
+}
+h1{
+    text-align:center;
+}
+
+#img_container{
+    margin: 100px 0 0 500px;
+    height: 128px;
+    width: 128px;
+    display: inline-block;
+}
+#file-upload-form
+{
+    position: fixed;
+    bottom: 200px;
+    right: 800px;
+}
+span{
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+#ann
+{
+    margin: 100px 0 0 500px;
+    height: 256;
+    width: 256;
+    display: inline-block; 
+}
+
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
