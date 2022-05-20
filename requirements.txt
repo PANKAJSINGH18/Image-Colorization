@@ -1,6 +1,5 @@
 tensorflow
 numpy
 pandas
-PIL
 django
-
+matplotlib
